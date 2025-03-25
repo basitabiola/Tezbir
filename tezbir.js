@@ -15,11 +15,11 @@ document.getElementById("clickButton").addEventListener("click", function() {
     
 
     // Turn on flashlight when count reaches 20
-    if (count === 20) {
+    if (count === 100) {
         turnOnFlashlight();
     }
 
-if (count === 30) {
+if (count === 105) {
         turnOffFlashlight();
     }
     
